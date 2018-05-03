@@ -55,5 +55,7 @@ async def on_message(message) :
         userID = message.author.id
         await client.send_message(message.channel, "<@%s> ما يصير تاكل نفسك ياخي" % (userID))
 
+client.login(process.env.BOT_TOKEN):
+
 
 client.run ("NDQxMzA2MDkxNTk5NTYwNzA0.Dcu2qw.HSC8TukjOJDit1fmJ2If1jqJcNA")
