@@ -1,7 +1,7 @@
 {
   "name": "SpyBOT",
   "description: "Spy Bot Made By Benz For Spy Server",
-  "version": "0.1",
+  "version": "0.1.0",
   "main": "bot.js"
 }.
  "dependencies": {
